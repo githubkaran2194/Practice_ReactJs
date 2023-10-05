@@ -1,0 +1,37 @@
+.nav {
+  list-style: none;
+}
+.nav li {
+  margin: 10px;
+  padding: 10px;
+  border-bottom: 1px solid rgb(102, 95, 95);
+}
+
+.nav li a {
+  text-decoration: none;
+  color: orangered;
+}
+.logo {
+  background-color: rgb(70, 68, 68);
+  padding: 20px;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
+#register {
+  padding: 10px;
+  text-align: center;
+}
+.long-nav {
+  list-style: none;
+}
+.long-nav li {
+  display: inline-block;
+  padding: 10px;
+  margin: auto;
+  text-decoration: none;
+}
+.long-nav li a {
+  text-decoration: none;
+}

@@ -1,0 +1,10 @@
+footer ul li {
+    margin-left: 10px;
+}
+.main{
+    margin: 0;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 80px;
+    box-shadow: 5px 5px 4px grey;
+}

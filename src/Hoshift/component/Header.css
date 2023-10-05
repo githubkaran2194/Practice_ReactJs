@@ -1,0 +1,38 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+.navigation-menu li {
+   margin: 0 20px;
+}
+.navigation-menu li a{
+    text-decoration: none;
+    color: white;
+}
+.navigation-menu li a:hover{
+    color:gray;
+}
+.mobile-navigation {
+    list-style: none;
+}
+.mobile-navigation li{
+    margin-top: 20px;
+ }
+ .mobile-navigation li a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 500;
+ }
+ .mobile-navigation li a:hover{
+    color:#3897f0 ;
+    text-decoration: underline;
+ }
+.nav-logo{
+   height: 60px;
+}
+.mobile-logo{
+    height: auto !important;
+    width: 130px;
+}
